@@ -72,12 +72,6 @@ export default function Hero() {
             <Button href="#contact" variant="secondary">
               Contact Me
             </Button>
-
-            <a
-              href="/cv/sofie-verhoeven-cv.pdf"
-              download
-              className="flex items-center gap-2 rounded-xl border border-slate-700 px-6 py-3 font-semibold transition hover:bg-slate-800"
-            >
               <Download size={18} />
               CV
             </a>
