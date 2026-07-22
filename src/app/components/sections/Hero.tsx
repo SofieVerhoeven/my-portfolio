@@ -94,7 +94,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="www.linkedin.com/in/
+              href="https://linkedin.com/in/
 sofie-verhoeven-8951a0330"
               target="_blank"
               className="transition hover:text-blue-400"
