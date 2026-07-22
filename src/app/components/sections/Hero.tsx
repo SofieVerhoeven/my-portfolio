@@ -86,7 +86,7 @@ export default function Hero() {
           {/* Social links */}
           <div className="mt-8 flex gap-5">
             <a
-              href="https://github.com/"
+              href="https://github.com/SofieVerhoeven"
               target="_blank"
               className="transition hover:text-blue-400"
             >
@@ -94,7 +94,8 @@ export default function Hero() {
             </a>
 
             <a
-              href="https://linkedin.com/"
+              href="www.linkedin.com/in/
+sofie-verhoeven-8951a0330"
               target="_blank"
               className="transition hover:text-blue-400"
             >
@@ -102,7 +103,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="mailto:your@email.com"
+              href="mailto:sofie.verhoeven2026@outlook.com"
               className="transition hover:text-blue-400"
             >
               <Mail size={24} />
